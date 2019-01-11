@@ -1,9 +1,9 @@
 # main links
 main:
    - title: "About"
-     url: https://DaneshJoy.github.io/about/
+     url: /about/
    - title: "Contact"
-     url: https://DaneshJoy.github.io/contact/
+     url: /contact/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
