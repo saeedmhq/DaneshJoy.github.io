@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "سعید محققی"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "مهندسی پزشکی - ولی بیشتر برنامه نویس"
-  location         : "تهران / کرج / همدان / رشت"
+  bio              : " برنامه نویسی و آموزش"
+  location         : "ایران"
   email            : "DaneshJoy.me@gmail.com"
   links:
     - label: "Email"
