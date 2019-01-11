@@ -1,11 +1,11 @@
 # main links
 main:
-   - title: "About"
+   - title: "درباره"
      url: /about/
-   - title: "Contact"
+   - title: "تماس"
      url: /contact/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+   - title: "آرشیو"
+     url: /archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
